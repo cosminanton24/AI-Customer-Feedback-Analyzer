@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FeedbackAnalyzer.API/FeedbackAnalyzer.API.csproj" />
+    <Project Path="src/FeedbackAnalyzer.Application/FeedbackAnalyzer.Application.csproj" />
+    <Project Path="src/FeedbackAnalyzer.Domain/FeedbackAnalyzer.Domain.csproj" />
+    <Project Path="src/FeedbackAnalyzer.Infrastructure/FeedbackAnalyzer.Infrastructure.csproj" />
+  </Folder>
+</Solution>

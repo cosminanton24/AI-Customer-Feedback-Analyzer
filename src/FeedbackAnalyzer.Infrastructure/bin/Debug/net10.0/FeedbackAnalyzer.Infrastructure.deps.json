@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FeedbackAnalyzer.Infrastructure/1.0.0": {
+        "dependencies": {
+          "FeedbackAnalyzer.Application": "1.0.0",
+          "FeedbackAnalyzer.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FeedbackAnalyzer.Infrastructure.dll": {}
+        }
+      },
+      "FeedbackAnalyzer.Application/1.0.0": {
+        "dependencies": {
+          "FeedbackAnalyzer.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FeedbackAnalyzer.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FeedbackAnalyzer.Domain/1.0.0": {
+        "runtime": {
+          "FeedbackAnalyzer.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FeedbackAnalyzer.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FeedbackAnalyzer.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FeedbackAnalyzer.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

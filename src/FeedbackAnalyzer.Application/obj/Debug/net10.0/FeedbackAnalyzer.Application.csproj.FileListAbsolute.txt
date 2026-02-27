@@ -1,0 +1,16 @@
+C:\Users\anton\Downloads\tema\AI-Customer-Feedback-Analyzer\src\FeedbackAnalyzer.Application\bin\Debug\net10.0\FeedbackAnalyzer.Application.deps.json
+C:\Users\anton\Downloads\tema\AI-Customer-Feedback-Analyzer\src\FeedbackAnalyzer.Application\bin\Debug\net10.0\FeedbackAnalyzer.Application.dll
+C:\Users\anton\Downloads\tema\AI-Customer-Feedback-Analyzer\src\FeedbackAnalyzer.Application\bin\Debug\net10.0\FeedbackAnalyzer.Application.pdb
+C:\Users\anton\Downloads\tema\AI-Customer-Feedback-Analyzer\src\FeedbackAnalyzer.Application\bin\Debug\net10.0\FeedbackAnalyzer.Domain.dll
+C:\Users\anton\Downloads\tema\AI-Customer-Feedback-Analyzer\src\FeedbackAnalyzer.Application\bin\Debug\net10.0\FeedbackAnalyzer.Domain.pdb
+C:\Users\anton\Downloads\tema\AI-Customer-Feedback-Analyzer\src\FeedbackAnalyzer.Application\obj\Debug\net10.0\FeedbackAnalyzer.Application.csproj.AssemblyReference.cache
+C:\Users\anton\Downloads\tema\AI-Customer-Feedback-Analyzer\src\FeedbackAnalyzer.Application\obj\Debug\net10.0\FeedbackAnalyzer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Downloads\tema\AI-Customer-Feedback-Analyzer\src\FeedbackAnalyzer.Application\obj\Debug\net10.0\FeedbackAnalyzer.Application.AssemblyInfoInputs.cache
+C:\Users\anton\Downloads\tema\AI-Customer-Feedback-Analyzer\src\FeedbackAnalyzer.Application\obj\Debug\net10.0\FeedbackAnalyzer.Application.AssemblyInfo.cs
+C:\Users\anton\Downloads\tema\AI-Customer-Feedback-Analyzer\src\FeedbackAnalyzer.Application\obj\Debug\net10.0\FeedbackAnalyzer.Application.csproj.CoreCompileInputs.cache
+C:\Users\anton\Downloads\tema\AI-Customer-Feedback-Analyzer\src\FeedbackAnalyzer.Application\obj\Debug\net10.0\FeedbackAnalyzer.Application.sourcelink.json
+C:\Users\anton\Downloads\tema\AI-Customer-Feedback-Analyzer\src\FeedbackAnalyzer.Application\obj\Debug\net10.0\Feedback.B9E8B3C5.Up2Date
+C:\Users\anton\Downloads\tema\AI-Customer-Feedback-Analyzer\src\FeedbackAnalyzer.Application\obj\Debug\net10.0\FeedbackAnalyzer.Application.dll
+C:\Users\anton\Downloads\tema\AI-Customer-Feedback-Analyzer\src\FeedbackAnalyzer.Application\obj\Debug\net10.0\refint\FeedbackAnalyzer.Application.dll
+C:\Users\anton\Downloads\tema\AI-Customer-Feedback-Analyzer\src\FeedbackAnalyzer.Application\obj\Debug\net10.0\FeedbackAnalyzer.Application.pdb
+C:\Users\anton\Downloads\tema\AI-Customer-Feedback-Analyzer\src\FeedbackAnalyzer.Application\obj\Debug\net10.0\ref\FeedbackAnalyzer.Application.dll
